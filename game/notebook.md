@@ -6,10 +6,20 @@
 - [ ] The Police Officer
 - [X] Florist in kitchen school
 - [X] Tailor in Park
+- [X] The Blacksmith in Gazebo
+- [X] The Gardener in Playground
+
 ## Weapons
 - [ ] Letter Opener
 - [ ] Heavy Book
 - [ ] Bronze Trophy
+- [X] Brass candlestick in Gazebo
+
+##Place
+- [X] House
+- [X] School
+- [X] Park
+- [YES!] Town Hall (ESTE ES EL LUGAR)
 
 ## Notes
 *Use this space to record your findings and deductions...*
