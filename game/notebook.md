@@ -8,12 +8,16 @@
 - [X] Tailor in Park
 - [X] The Blacksmith in Gazebo
 - [X] The Gardener in Playground
+- [X] Baker in town hall
+- [X] Postman
 
 ## Weapons
 - [ ] Letter Opener
 - [ ] Heavy Book
 - [ ] Bronze Trophy
 - [X] Brass candlestick in Gazebo
+- [X] Steel ruler
+- [X] Walking stick
 
 ##Place
 - [X] House
