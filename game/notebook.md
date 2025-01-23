@@ -3,7 +3,8 @@
 ## Suspects
 - [ ] The Artist
 - [ ] The Mayor
-- [ ] The Police Officer
+- [X] The Police Officer in Houses
+- [x] Carpenter in mansion's Garden
 - [X] Florist in kitchen school
 - [X] Tailor in Park
 - [X] The Blacksmith in Gazebo
@@ -15,6 +16,7 @@
 - [ ] Letter Opener
 - [ ] Heavy Book
 - [ ] Bronze Trophy
+- [X] Wooden Box
 - [X] Brass candlestick in Gazebo
 - [X] Steel ruler
 - [X] Walking stick
