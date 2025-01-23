@@ -10,17 +10,18 @@
 - [X] The Blacksmith in Gazebo
 - [X] The Gardener in Playground
 - [X] Baker in town hall
-- [X] Postman
+- [X] Postman in Bakery
+- [X] Musician in Kitchen Cafeteria
 
 ## Weapons
 - [ ] Letter Opener
-- [ ] Heavy Book
+- [X] Heavy Book in Gym
 - [ ] Bronze Trophy
 - [X] Wooden Box
 - [X] Brass candlestick in Gazebo
 - [X] Steel ruler
 - [X] Walking stick
-
+- [X] Kitchen Knife in Gym
 ##Place
 - [X] House
 - [X] School
