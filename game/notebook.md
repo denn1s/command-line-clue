@@ -1,8 +1,8 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Artist
-- [ ] The Mayor
+- [X] The Artist in Council
+- [ ] The Mayor CULPABLE!!!!
 - [X] The Police Officer in Houses
 - [x] Carpenter in mansion's Garden
 - [X] Florist in kitchen school
@@ -14,9 +14,11 @@
 - [X] Musician in Kitchen Cafeteria
 
 ## Weapons
-- [ ] Letter Opener
+- [ ] Letter Opener ARMA ENCONTRADA!!!
 - [X] Heavy Book in Gym
-- [ ] Bronze Trophy
+- [X] Bronze Trophy in School
+- [X] Magnifying glass in School
+- [X] Silver Watch in cafe
 - [X] Wooden Box
 - [X] Brass candlestick in Gazebo
 - [X] Steel ruler
@@ -26,7 +28,7 @@
 - [X] House
 - [X] School
 - [X] Park
-- [YES!] Town Hall (ESTE ES EL LUGAR)
+- [ ] Town Hall (ESTE ES EL LUGAR)
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -42,3 +44,5 @@ Location of the crime is still unknown - the room must have been empty when it h
 		- no one in science lab
 - Tailor in park
 
+MURDER:
+- Ocurrió en el Town Hall, el Mayor fue el culpable y lo hizo con el Letter Opener!
