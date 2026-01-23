@@ -235,18 +235,18 @@ Location of the crime is still unknown - the room must have been empty when it h
           continue
 
         # Get relative path for content lookup
-        rel_path = str(new_path.relative_to(base_dir))
+        rel_path = str(new_path.relative_to(base_dir).as_posix())
 
         # Get and create room contents
         contents = self.room_contents.get(rel_path, {"people": [], "objects": []})
 
         try:
           # Create persons.txt
-          with open(new_path / "persons.txt", "w") as f:
+          with open(new_path / "persons.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(contents["people"]))
 
           # Create objects.txt
-          with open(new_path / "objects.txt", "w") as f:
+          with open(new_path / "objects.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(contents["objects"]))
 
         except Exception as e:
@@ -317,7 +317,7 @@ else:
 '''
     
     accuse_path = Path("game/accuse.py")
-    with open(accuse_path, "w") as f:
+    with open(accuse_path, "w", encoding="utf-8") as f:
         f.write(script_content)
 
   def check_lateral_path(self, current_segments, next_segments):
