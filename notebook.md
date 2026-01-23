@@ -12,6 +12,7 @@
 
 ## Notes
 *Use this space to record your findings and deductions...*
-Pista 1: El sastre dejó un aviso anónimo en el gazebo
+Pista 1: El sastre dejó un aviso anónimo en el gazebo - No encontramos nada
+Pista 2: Ruidos provenientes del pond - No encontramos objetos ni personas
 
 Location of the crime is still unknown - the room must have been empty when it happened...
